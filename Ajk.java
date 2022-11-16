@@ -65,5 +65,6 @@ public class Ajk {
 	
 	 Ride ride = new Ride("R1001","Banglore","Delhi",-5,50,"25-04-2022","30-04-2022","yes","yes");
 	 System.out.println("ride");
+		System.out.println("kilo");
 }
 }
